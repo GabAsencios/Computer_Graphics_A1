@@ -7,3 +7,4 @@ Run Assignment1_deploy.cpp in Proj1
 To compile: g++ Assignment1_deploy.cpp -o Assignment1_deploy -lglfw -lGL -lGLEW -lassimp
 
 
+Group members: Gabriel Asencios, Haoran Qin(Howard), Jamie Low
